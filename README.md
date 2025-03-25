@@ -16,28 +16,27 @@ I’m currently exploring **cybersecurity, threat analysis, and security automat
 
 ### **👨‍💻 Programming Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,gcp,eclipse" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,sql,javascript,html,css" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20x86--64%20Assembly-525252?style=for-the-badge" />
 </p>
 
 ### **🖥️ Operating Systems**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>  
+</p>
 
 ### **🔧 Developer Tools**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode, eclipse" />
-</p>  
-
-### **📡 Networking & Security Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Tcpdump-00979D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-FF4500?style=for-the-badge" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=git,docker,gcp,vscode" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=eclipse" />
+  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Man%20Pages-525252?style=for-the-badge" />
+</p>
 
 ### **📚 Libraries & Frameworks**  
 <p align="left">
@@ -46,7 +45,8 @@ I’m currently exploring **cybersecurity, threat analysis, and security automat
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Test-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>  
+</p>
+
 
 ---
 

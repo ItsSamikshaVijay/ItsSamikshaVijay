@@ -55,8 +55,8 @@ I’m currently exploring **cybersecurity, threat analysis, and security automat
 ### 🔗 LinkedIn  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thesamiksha)  
 
-### 🌐 GitHub  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsSamikshaVijay)  
+### 🌐 Email  
+[![GitHub](the.samiksha.vijay@gmail.com)  
 
 ---
 

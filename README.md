@@ -16,7 +16,7 @@ I’m currently exploring **cybersecurity, threat analysis, and security automat
 
 ### **👨‍💻 Programming Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,sql,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,Mysql,javascript,html,css" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20x86--64%20Assembly-525252?style=for-the-badge" />
